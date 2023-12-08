@@ -1,0 +1,4 @@
+gradio==3.21.0
+python-pptx==0.6.21
+icrawler==0.6.6
+openai==0.27.1
